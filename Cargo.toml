@@ -1,0 +1,13 @@
+[package]
+name = "colorex"
+version = "0.1.0"
+edition = "2021"
+authors = ["LunaStev <lunastev@gurmstudis.com>"]
+description = "A simple and flexible Rust library for styling terminal output with color and text formatting. Supports RGB/HEX colors, text styles (bold, italic, underline, etc.), and background colors with a chainable API."
+license = "MPL-2.0"
+repository = "https://github.com/LunaStev/colorex"
+publish = true
+
+[lib]
+name = "colorex"
+path = "src/lib.rs"
