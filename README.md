@@ -11,7 +11,7 @@
 
 ## Installation
 
-To use colorex`, add it to your `Cargo.toml` file:
+To use colorex, add it to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
